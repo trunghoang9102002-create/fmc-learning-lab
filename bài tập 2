@@ -1,1 +1,19 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>FMC Learning Lab</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
 
+<body>
+  <h1>Phòng Đào tạo FMC</h1>
+
+  <p id="status">Chưa chọn học viên</p>
+
+  <button id="selectBtn">
+    Chọn học viên Minh Anh
+  </button>
+</body>
+</html>
